@@ -1,3 +1,19 @@
+# AIP Chart Viewer
+
+Using Vue.js & TypeScript to create the front_end, with AES authorization
+
+### install:  ```npm install```
+### develop: ```npm run dev```
+### build: ```npm run build```
+
+# Notice
+
+- please unzip the pdf plugin in public/PDF.zip first
+
+- upload your charts db json file via the AES authorization & encryption
+
+- create your own api path
+
 # naip-viewer
 
 This template should help get you started developing with Vue 3 in Vite.
