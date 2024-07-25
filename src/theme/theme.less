@@ -1,0 +1,7 @@
+@globalNight: invert(90%) contrast(130%) brightness(90%) hue-rotate(180deg);
+
+#app[night-mode = 'true']{
+    iframe{
+        filter: @globalNight;
+    }
+}
