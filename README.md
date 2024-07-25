@@ -2,9 +2,10 @@
 
 Using Vue.js & TypeScript to create the front_end, with AES authorization
 
-### install:  ```npm install```
-### develop: ```npm run dev```
-### build: ```npm run build```
+### dev guide
+install:  ```npm install```
+develop: ```npm run dev```
+build: ```npm run build```
 
 # Notice
 
