@@ -17,10 +17,11 @@ import router from './router';
 import auth from './utils/auth';
 
 async function activateDevice() {
-    const result = await auth()
-    if  (!result){
-        router.push('/auth')
-    }
+    // const result = await auth()
+    // if  (!result){
+    //     router.push('/auth')
+    // }
+  return true
 }
 
 onMounted(() => {
